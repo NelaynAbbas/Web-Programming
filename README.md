@@ -1,3 +1,3 @@
-HTML Comments screenshot
+## HTML Comments screenshot
 
 ![alt text](image.png)
