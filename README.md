@@ -28,3 +28,13 @@ downlaod method output
 
 ![alt text](image-5.png)
 CDN method output
+
+
+
+# TASK3
+
+![alt text](image-6.png)
+HIDDEN PIC
+
+![alt text](image-7.png)
+After Clicking Show Button

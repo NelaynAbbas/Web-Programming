@@ -4,12 +4,28 @@
   <title>Welcome to jQuery</title>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
   <script>
-    $(document).ready(function() {
-      alert("Welcome to jQuery");
+    $(document).ready(function(){
+        $("img").hide();
+        $(".sh").click(function(){
+            $("img").show();
+        });
+        $(".hd").click(function(){
+            $("img").hide();
+        });
     });
   </script>
+  <style>
+    img{
+        height: 30%;
+        width: 40%;
+    }
+  </style>
 </head>
 <body>
-
+    <div class="container">
+        <button class="sh">Show</button>
+        <button class="hd">Hide</button><br><br>
+        <img src="babar.jpg" alt="GOAT">
+    </div>
 </body>
 </html>
