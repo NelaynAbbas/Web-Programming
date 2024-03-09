@@ -15,3 +15,7 @@ this screenshot contains the CSS code with comments in it
 
 ![alt text](image-2.png)
 this screenshot contains the JS code with comments in it
+
+
+
+# TASK2
