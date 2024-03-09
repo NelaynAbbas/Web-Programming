@@ -19,5 +19,12 @@ this screenshot contains the JS code with comments in it
 
 
 # TASK2
+
 ![alt text](image-3.png)
 installing jquery
+
+![alt text](image-4.png)
+downlaod method output
+
+![alt text](image-5.png)
+CDN method output
