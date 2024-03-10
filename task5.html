@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TASK5</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+
+<h2 class="example" id="heading">Click on any element below</h2>
+
+<div class="example" id="div1">Element 1</div>
+<div class="example" id="div2">Element 2</div>
+<div class="example" id="div3">Element 3</div>
+
+<script>
+$(document).ready(function(){
+  $(".example").click(function(){
+    var cc = $(this).attr("class");
+    var ii = $(this).attr("id");
+    alert("Class: " + cc + "\nID: " + ii);
+  });
+});
+</script>
+
+</body>
+</html>

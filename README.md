@@ -48,3 +48,18 @@ all rows
 
 ![alt text](image-9.png)
 one row removed by clicking the remove button
+
+
+
+# TASK5
+
+![alt text](image-10.png)
+ELEMENTS
+
+![alt text](image-11.png)
+showing its class and ids in alert
+
+
+
+# TASK6
+
