@@ -38,3 +38,13 @@ HIDDEN PIC
 
 ![alt text](image-7.png)
 After Clicking Show Button
+
+
+
+# TASK4
+
+![alt text](image-8.png)
+all rows
+
+![alt text](image-9.png)
+one row removed by clicking the remove button

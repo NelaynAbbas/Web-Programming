@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Remove Table Row with jQuery</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+
+<h2>Table</h2>
+
+<table id="myTable">
+  <tr>
+    <th>Name</th>
+    <th>Age</th>
+    <th>Country</th>
+    <th>Action</th>
+  </tr>
+  <tr>
+    <td>Nelayn Abbas</td>
+    <td>21</td>
+    <td>Pakistan</td>
+    <td><button class="removeRow">Remove</button></td>
+  </tr>
+  <tr>
+    <td>Abdullah</td>
+    <td>22</td>
+    <td>Uganda</td>
+    <td><button class="removeRow">Remove</button></td>
+  </tr>
+  <tr>
+    <td>Mohib</td>
+    <td>22</td>
+    <td>Medagascar</td>
+    <td><button class="removeRow">Remove</button></td>
+  </tr>
+</table>
+
+<script>
+$(document).ready(function(){
+  $(".removeRow").click(function(){
+    $(this).closest("tr").remove();
+  });
+});
+</script>
+
+</body>
+</html>
