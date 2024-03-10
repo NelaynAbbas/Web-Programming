@@ -72,3 +72,13 @@ width shown in alert message
 
 ![alt text](image-13.png)
 TOTAL ELEMENTS SHOWN IN ALERT MESSAGE
+
+
+
+# TASK8
+
+![alt text](image-14.png)
+starting position
+
+![alt text](image-15.png)
+ending position
