@@ -70,3 +70,5 @@ width shown in alert message
 
 # TASK7
 
+![alt text](image-13.png)
+TOTAL ELEMENTS SHOWN IN ALERT MESSAGE
