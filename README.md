@@ -63,3 +63,10 @@ showing its class and ids in alert
 
 # TASK6
 
+![alt text](image-12.png)
+width shown in alert message
+
+
+
+# TASK7
+
